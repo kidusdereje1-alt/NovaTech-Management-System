@@ -1,6 +1,6 @@
 # NovaTech Management System
 
-## 📌 Project Overview
+## Project Overview
 
 NovaTech Management System is a console-based Java application developed as a Minimum Viable Product (MVP) to demonstrate the core Object-Oriented Programming (OOP) concepts learned in:
 
@@ -13,7 +13,7 @@ The system simulates a simple company environment where different employee types
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Employee management system
 - Developer, Manager, and Intern classes
@@ -27,7 +27,7 @@ The system simulates a simple company environment where different employee types
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 NovaTechManagementSystem/
@@ -44,7 +44,7 @@ NovaTechManagementSystem/
 
 ---
 
-# ▶️ How to Compile and Run
+#  How to Compile and Run
 
 ## Step 1: Open Terminal
 
@@ -64,7 +64,7 @@ java Main
 
 ---
 
-# 🧠 OOP Concepts Demonstrated
+#  OOP Concepts Demonstrated
 
 ---
 
@@ -248,27 +248,27 @@ Department: IT
 
 ---
 
-# 🎯 Project Objectives Achieved
+#  Project Objectives Achieved
 
-✅ Classes and Objects  
-✅ Encapsulation  
-✅ Inheritance  
-✅ Single Inheritance  
-✅ Multilevel Inheritance  
-✅ Hierarchical Inheritance  
-✅ Method Overloading  
-✅ Method Overriding  
-✅ Runtime Polymorphism  
-✅ this Keyword  
-✅ super Keyword  
-✅ final Class  
-✅ final Method  
-✅ Static Members  
-✅ Access Modifiers  
+ Classes and Objects  
+ Encapsulation  
+ Inheritance  
+ Single Inheritance  
+ Multilevel Inheritance  
+ Hierarchical Inheritance  
+ Method Overloading  
+ Method Overriding  
+ Runtime Polymorphism  
+ this Keyword  
+ super Keyword  
+ final Class  
+ final Method  
+ Static Members  
+ Access Modifiers  
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Kidus Dereje  
 Java OOP MVP Project  
